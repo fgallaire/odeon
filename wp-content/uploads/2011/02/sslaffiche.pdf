@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr_FR" lang="fr_FR">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+<title>Le Jura Libertaire - </title>
+<link type="text/css" href="http://fdata.over-blog.net/99/00/00/01/style/extbar.css?2.4.0.17" rel="stylesheet" />
+<link type="text/css" href="http://fdata.over-blog.net/99/00/00/01/csscombos/common.css?2.4.0.17" rel="stylesheet" />
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.8.0r4/build/utilities/utilities.js&amp;2.8.0r4/build/event-mouseenter/event-mouseenter-min.js&amp;2.8.0r4/build/selector/selector-min.js&amp;2.8.0r4/build/cookie/cookie-min.js" ></script>
+<script type="text/javascript" src="http://fdata.over-blog.net/99/00/00/01/jscombos/OB.Utils,OB.Diablog.js?2.4.0.17" ></script>
+<script type="text/javascript" src="http://fdata.over-blog.net/99/00/00/01/js/OB.Bar1black.js?2.4.0.17" ></script>
+<script type="text/javascript">
+// <![CDATA[
+ OB.Diablog.LABEL_CLOSE = "Fermer";
+var locales = [];
+// ]]>
+</script><style type="text/css">/* Reset styles */ html.ie6 body { padding-top: 33px ! important;} html body .obbar * { line-height: auto ! important; width: auto ! important; font-family: arial, sans-serif ! important; font-size: 11px ! important; font-weight: bold ! important; padding: 0 ! important; outline: none ! important; visibility: visible ! important; background: none ! important; float: none ! important; text-indent: auto ! important;} /* \ */ html body .obbar { position: fixed ! important; top: 0 ! important; bottom: 0 ! important; height: 43px ! important; width: 100% ! important; z-index: 2147483646 ! important;} html.ie6 body .obbar { position: absolute ! important;} html body .obbar a { text-decoration: none ! important;} html body .obbar a:hover { text-decoration: underline ! important;} html body .obbar .expand { -webkit-box-shadow: 0 3px 15px rgba(0, 0, 0, 0.8) ! important; -moz-box-shadow: 0 3px 15px rgba(0, 0, 0, 0.8) ! important; display: block ! important; margin: 0 ! important;} html body .obbar .buttons { height: 33px ! important; overflow: hidden ! important; margin: 0 ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html body .obbar .buttons li { float: left ! important; height: 29px ! important; overflow: hidden ! important; margin: 1px 0 0 0 ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html body .obbar .buttons li li { background: none ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html body .obbar .buttons li img { vertical-align: middle ! important;} html body .obbar .buttons li a img { vertical-align: middle ! important; text-decoration: none ! important; border: none ! important;} html body .obbar .buttons li a { display: -moz-inline-box ! important; display: inline-block ! important; height: 28px ! important; line-height: 28px ! important; padding: 0 15px ! important; cursor: pointer ! important; font-size: 11px ! important; margin: 2px 0 0 0 ! important;} html body .obbar .buttons li.right { float: right ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html body .obbar .buttons li.noborder { background: none ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html body .obbar .buttons li a.facebook, html body .obbar .buttons li a.twitter, html body .obbar .buttons li a.shortener { width: 18px ! important; background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.png") no-repeat center 5px ! important; background-position: 0 -54px ! important; padding: 0 0 0 15px ! important; text-decoration: none ! important;} html.ie6 body .obbar .buttons li a.facebook, html.ie6 body .obbar .buttons li a.twitter, html.ie6 body .obbar .buttons li a.shortener { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.gif") ! important;} html body .obbar .buttons li a.twitter { padding: 0 2px 0 2px ! important; background-position: -44px -54px ! important;} html body .obbar .buttons li a.shortener { padding: 0 15px 0 0px ! important; background-position: -76px -54px ! important;} html body .obbar .buttons li a.menu { padding-left: 25px ! important;} html body .obbar .buttons li.menu { padding-left: 15px ! important; background-position: 0 5px ! important;} html body .obbar .buttons li.menu a { padding-left: 0 ! important;} html body ul.obbarsubmenu * { line-height: auto ! important; width: auto ! important; font-family: arial, sans-serif ! important; font-size: 11px ! important; font-weight: bold ! important; outline: none ! important; visibility: visible ! important; background: none ! important; float: none ! important; text-indent: auto ! important;} html body ul.obbarsubmenu { position: fixed ! important; overflow: hidden ! important; -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6) ! important; -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6) ! important; font-weight: bold ! important; opacity: 0.9 ! important; -moz-opacity: 0.9 ! important; list-style: none ! important; -moz-border-radius-bottomleft: 5px ! important; -moz-border-radius-bottomright: 5px ! important; -webkit-border-bottom-left-radius: 5px ! important; -webkit-border-bottom-right-radius: 5px ! important; z-index: 999 ! important; margin: 0 ! important; padding: 0 ! important; z-index: 2147483647 ! important;} html.ie6 body ul.obbarsubmenu { position: absolute ! important;} html body ul.obbarsubmenu li { float: none ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html.ie6 body ul.obbarsubmenu li { margin: 0 ! important; padding: 0 ! important; height: 30px ! important; width: 200px ! important;} html body ul.obbarsubmenu.search li { list-style: none ! important; margin: 0.5em 2em ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html body ul.obbarsubmenu.search li * { font-size: 13px ! important; cursor: pointer ! important;} html body ul.obbarsubmenu li a { padding: 1em 3em 1em ! important; list-style: disc ! important; font-size: 11px ! important; margin: 0 ! important; line-height: 11px; ! important; font-weight: bold ! important; font-size: 11px ! important; text-decoration: none ! important; /* reset*/ height: auto ! important; text-indent: 0 ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html body ul.obbarsubmenu li:last-child a { -moz-border-radius-bottomleft: 5px ! important; -moz-border-radius-bottomright: 5px ! important; -webkit-border-bottom-left-radius: 5px ! important; -webkit-border-bottom-right-radius: 5px ! important;} html body ul.obbarsubmenu li a:hover { text-decoration: underline ! important;} html body .obbar .buttons li a.logoob { text-decoration: none ! important;} html body .obbar .buttons li a.logoob span { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.png") no-repeat 0 -31px ! important; width: 80px ! important; height: 30px ! important; display: block ! important; opacity: 1 ! important; -moz-opacity: 1 ! important; visibility: visible ! important;} html.ie6 body .obbar .buttons li a.logoob span { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.gif") ! important;} html body .obbar .buttons li.top a { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.png") no-repeat 0 -102px ! important; padding-left: 25px ! important;} html.ie6 .obbar .buttons li.top a { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.gif") ! important; padding-left: 30px ! important;} html body .obbar .buttons li.silver a { background-position: 0 -124px ! important;} html body .obbar .buttons li.gold a { background-position: 0 -145px ! important;} html.ie6 .obbar .buttons li.none a, html body .obbar .buttons li.none a { background: none ! important; padding-left: 1em ! important;} html body .obbar .buttons li a.admin { width: 17px ! important; text-decoration: none ! important;} html body .obbar .buttons li a.close { width: 10px ! important; text-decoration: none ! important;} html body .obbar .buttons li a.goback { color: gray ! important; padding-right: 0 ! important;} html body .obbar .buttons li a.gobackhost { padding-left: 0 ! important;} html body .obbar .buttons li form { padding: 0 0 0 20px ! important; margin: 0 5px ! important; background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.png") no-repeat 0 -77px ! important;} html.ie6 body .obbar .buttons li form { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.gif") ! important;} html body .obbar .buttons li form p { border: none ! important; line-height: 28px ! important; position: relative ! important; margin: 0 ! important;} html.ie6 body .obbar .buttons li form p { margin-top: 5px ! important;} html body .obbar .buttons li form p * { vertical-align: middle ! important;} html body .obbar .buttons li form p span.input { display: -moz-inline-block ! important; display: inline-block ! important; *display: inline ! important; -moz-border-radius: 4px ! important; -webkit-border-radius: 4px ! important; line-height: 18px ! important; height: 20px ! important;} html body .obbar .buttons li form p input.query { -moz-border-radius: 4px ! important; -webkit-border-radius: 4px ! important; line-height: 18px ! important; height: 18px ! important; width: 150px ! important; padding: 0 20px 0 0 ! important; font-size: 12px ! important; outline: 0 ! important;} html body .obbar .buttons li form p input.submit { border: none ! important; background: none ! important; position: absolute ! important; top: 0 ! important; right: 5px ! important; cursor: pointer ! important; height: 28px ! important; line-height: 28px ! important; margin: 0 ! important;} li.rsslink { list-style: none ! important; background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.png") no-repeat 0 -170px ! important; padding-left: 15px ! important;} html.ie6 body li.rsslink { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/../common/sprite.gif") ! important;} html body .obbar .panel { height: 0; /* cet espace permet de ne pas avior de ! important après cette déclaration */ overflow: hidden ! important;} html body .obbar .handler { height: 10px ! important; width: 100% ! important; cursor: pointer ! important; position: relative ! important;} html body .obbar .handler span { height: 25px ! important; width: 34px ! important; position: absolute ! important; top: 0 ! important;} html body .obbar .handler .left { left: 0 ! important;} html body .obbar .handler .right { right: 0 ! important;} /* form newsletter */ #jforms_annexe_newsletter .jforms-label.full { float: none ! important;} html body /* extbar */.obbar .expand { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") repeat-x 0 0 ! important;} html.ie6 body .obbar .expand { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .buttons li { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") no-repeat right -340px ! important;} html.ie6 body .obbar .buttons li { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .buttons li.last { background: none ! important;} html body .obbar .buttons li a { color: white ! important;} html body ul.obbarsubmenu { background: black ! important; color: white ! important;} html body ul.obbarsubmenu li { color: #D77608 ! important;} html body ul.obbarsubmenu li a, html body ul.obbarsubmenu li label { color: white ! important;} html body ul.obbarsubmenu li a:hover { background: #191919 ! important;} html body .obbar .buttons li.menu { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") no-repeat 0 -368px ! important;} html.ie6 body .obbar .buttons li.menu { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .buttons li a.menu { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") no-repeat 0 -372px ! important;} html.ie6 body .obbar .buttons li a.menu { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .buttons li a.admin { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") no-repeat 0 -407px ! important;} html.ie6 body .obbar .buttons li a.admin { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .buttons li a.close { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") no-repeat 0 -435px ! important;} html.ie6 body .obbar .buttons li a.close { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .buttons li form p span.input { border: 1px solid #191919 ! important;} html body .obbar .buttons li form p input.query { background: transparent url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") repeat-x 0 -320px ! important; border: 1px solid #464646 ! important; color: #b1b1b1 ! important;} html.ie6 body .obbar .buttons li form p input.query { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .buttons li form p input.submit { color: #b1b1b1 ! important;} html body .obbar .panel { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") repeat-x 0 -40px ! important;} html.ie6 body .obbar .panel { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} html body .obbar .handler span { background: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.png") no-repeat 0 -467px ! important;} html.ie6 body .obbar .handler span { background-image: url("http://fdata.over-blog.net/99/00/00/01/style/obbar/black/img/sprite.gif") ! important;} </style>
+<meta name="robots" content="noindex" />
+		<!-- overblog tracker -->
+		<script src="/_tracker.js?20110218" type="text/javascript"></script>
+		<script type="text/javascript">
+		//<![CDATA[
+		_oobsite = "1";
+		_oobacct = "OB-334388-212811361/234023436/";
+		oobTracker("hitv2js", 0);
+		//]]>
+		</script>
+		<!-- end of tracker -->
+	</head><body >
+
+<div class="obbar ext">
+	<div class="expand">
+		<ul class="buttons clearfix">
+						<li class="first">
+				<a class="menu logoob"><span>&nbsp;</span></a>
+				<ul class="submenu clearfix">
+					<li>
+						<a href="http://www.over-blog.com/signup">
+							Créer un blog						</a>
+					</li>
+					<li>
+						<a href="http://www.over-blog.com/signup-oob">
+							Ajouter son blog sur OverBlog						</a>
+					</li>
+					<li>
+						<a href="http://www.over-blog.com/">
+							Aller sur OverBlog						</a>
+					</li>
+					<li>
+						<a href="http://www.over-blog.com/blogs.html">
+							Annuaire des blogs						</a>
+					</li>
+				</ul>
+			</li>
+						<li class="back">
+				<a href="http://juralibertaire.over-blog.com" class="goback nopopup">Retour sur</a>
+				&nbsp;				<a href="http://juralibertaire.over-blog.com" class="gobackhost">juralibertaire.over-blog.com</a>
+			</li>
+						<li class="articles last">
+				<div>
+					<p>
+						<a href="http://juralibertaire.over-blog.com/article-semaine-de-solidarite-et-de-luttes-contre-la-repression-du-20-au-27-fevrier-a-paris-67493312.html#"> "Semaine de solidarité et de luttes contre la répression Du 20 au 27 février à Paris"</a>					</p>
+				</div>
+			</li>
+			
+			<li class="right last">
+				<a class="close">&nbsp;</a>
+			</li>
+			<li class="right search">
+				<form	action="http://www.over-blog.com/recherche/"
+						method="get"
+						accept-charset="utf-8"
+						target="_blank">
+						<p>
+							<span class="input">
+								<input	type="text"
+										name="query"
+										value=""
+										class="query"
+										placeholder="Rechercher" />
+							</span>
+							<input	type="submit"
+									value="ok"
+									class="submit" />
+							<input	type="hidden"
+									name="module"
+									value="portal" />
+							<input	type="hidden"
+									name="action"
+									value="search:userSearch" />
+							<input	type="hidden"
+									name="ref"
+									value="334388" />
+						</p>
+				</form>
+				<ul class="submenu dontautoclose search">
+					<li>
+						<label>
+							<input	type="radio"
+									name="searchLocation"
+									value="blog"
+									checked="checked" />
+							sur ce blog						</label>
+					</li>
+					<li>
+						<label>
+							<input	type="radio"
+									name="searchLocation"
+									value="site" />
+							sur OverBlog						</label>
+					</li>
+				</ul>
+			</li>
+			<li class="right">
+				<a	href="#"
+					class="shortener"
+					title="Adresse simplifiée">&nbsp;</a>
+			</li>
+			<li class="right noborder">
+				<a href="http://twitter.com/?status=__LINK__" class="twitter nopup">&nbsp;</a>
+			</li>
+			<li class="right noborder">
+				<a href="http://www.facebook.com/share.php?u=__LINK__" class="facebook nopup">&nbsp;</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+ YAHOO.util.Event.onDOMReady( function() {  var bar = YAHOO.util.Selector.query('.obbar', null, true); YAHOO.util.Event.on( YAHOO.util.Selector.query('.close', bar, true), 'click', function(e) { window.location = 'http://paris.indymedia.org/IMG/pdf/sslaffiche.pdf'; } );  var articlesCtn = YAHOO.util.Selector.query('.articles', bar, true); articlesCtn.current = 1; articlesCtn.articles = ["<a href=\"\http://juralibertaire.over-blog.com/article-semaine-de-solidarite-et-de-luttes-contre-la-repression-du-20-au-27-fevrier-a-paris-67493312.html#\"> \"Semaine de solidarit\u00e9 et de luttes contre la r\u00e9pression Du 20 au 27 f\u00e9vrier \u00e0 Paris\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-la-crs-no-9-de-rennes-s-entraine-pour-le-g8-de-deauville-67464406.html#\"> \"La CRS no 9 de Rennes s'entra\u00eene pour le G8 de Deauville\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-concert-de-soutien-aux-inculpes-de-la-guerre-sociale-dimanche-20-fevrier-a-paris-67486332.html#\"> \"Concert de soutien aux inculp\u00e9s de la guerre sociale Dimanche 20 f\u00e9vrier \u00e0 Paris\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-la-police-travaille-au-proces-de-tom-et-lea-toulouse-17-fevrier-67491526.html#\"> \"La police travaille au proc\u00e8s de Tom et L\u00e9a - Toulouse, 17 f\u00e9vrier\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-action-antiflic-a-l-universite-de-dijon-10-fevrier-67485492.html#\"> \"Action antiflic \u00e0 l'universit\u00e9 de Dijon - 10 f\u00e9vrier\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-luttes-de-classe-en-egypte-18-fevrier-67479491.html#\"> \"Luttes de classe en \u00c9gypte - 18 f\u00e9vrier\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-et-un-patron-retenu-un-fonderie-messier-a-arudy-64-17-fevrier-67465445.html#\"> \"Et un patron \"retenu\", un ! - Fonderie Messier \u00e0 Arudy (64), 17 f\u00e9vrier\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-la-police-travaille-expulsion-de-kamel-sdf-11e-arrondissement-de-paris-14-fevrier-67464785.html#\"> \"La police travaille - Expulsion de Kamel, SDF, 11e arrondissement de Paris, 14 f\u00e9vrier\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-l-armee-travaille-a-manama-bahrein-17-fevrier-67463926.html#\"> \"L'arm\u00e9e travaille \u00e0 Manama (Bahre\u00efn) - 17 f\u00e9vrier\"<\/a>","<a href=\"\http://juralibertaire.over-blog.com/article-jour-de-colere-reprime-dans-le-sang-en-libye-17-fevrier-67436662.html#\"> \"\"Jour de col\u00e8re\" r\u00e9prim\u00e9 dans le sang en Libye - 17 f\u00e9vrier\"<\/a>"]; if (articlesCtn.articles.length > 1) { articlesCtn.panel = articlesCtn.getElementsByTagName('div')[0]; articlesCtn.scrollDown = function() { var newP = document.createElement('p'); newP.innerHTML = this.articles[this.current]; this.panel.appendChild(newP); this.current++; if (this.current > this.articles.length - 1) { this.current = 0; }  (new YAHOO.util.Anim( this.panel, { 'margin-top': { by: -(parseInt(YAHOO.util.Dom.getRegion( this.getElementsByTagName('p')[0] ).height)) } }, 0.4, YAHOO.util.Easing.elasticOut )).animate(); }; setInterval( function() { articlesCtn.scrollDown(); }, 5000 ); } var links = bar.getElementsByTagName('a'); for (i in links) { if (links[i].rel !== 'dontpop' && links[i].href != '' && links[i].href != '#') { YAHOO.util.Event.on( links[i], 'click', function(e) { YAHOO.util.Event.preventDefault(e); window.open(this); } ); } }  var facebook = YAHOO.util.Selector.query( '.facebook', bar, true ); if (facebook) { YAHOO.util.Event.purgeElement( facebook ); YAHOO.util.Event.on( facebook, 'click', function(e) { YAHOO.util.Event.preventDefault(e); var newL = this.href.replace( '__LINK__', encodeURIComponent( window.location ) ); if (!window.open( newL )) { window.location = newL; } } ); }  var twitter = YAHOO.util.Selector.query( '.twitter', bar, true ); if (twitter) { YAHOO.util.Event.purgeElement( twitter ); YAHOO.util.Event.on( twitter, 'click', function(e) { YAHOO.util.Event.preventDefault(e); var popup = window.open( '', 'twitter' ); OB.Utils.Shortener.get( window.location.href, function(e, shorten, popup) { var newL = this.href.replace( '__LINK__', document.title.substr(0,100) + ' : ' + shorten ); popup.location = newL; }, popup, this ); } ); }  var shortener = YAHOO.util.Selector.query( '.shortener', bar, true ); if (shortener) { YAHOO.util.Event.purgeElement( shortener ); YAHOO.util.Event.on( shortener, 'click', function(e) { YAHOO.util.Event.preventDefault(e); OB.Utils.Shortener.get( window.location.href, function(e, shrtL) { var dial = new OB.Diablog(); dial.setTitle('Adresse simplifiée de la page'); dial.setContent( '<p><input type="text" value="' + shrtL + '" onfocus="this.select();" style="width: 100%; font-size: 2em;" /></p>' ); YAHOO.util.Selector.query( 'input', dial.getEl(), true ).focus(); }, this, true ); } ); }  YAHOO.util.Dom.batch( YAHOO.util.Selector.query( 'input[name=searchLocation]', bar ), function(el) { el.parentForm = el.parentNode.parentNode.parentNode.parentNode.getElementsByTagName('form')[0]; el._onclick = function() { if (this.value === 'site') { this.parentForm.attributes.action.value = "http://www.over-blog.com/recherche/"; this.parentForm.action.value = "search:userSearch"; this.parentForm.ref.value = ""; } else { this.parentForm.attributes.action.value = "http://www.over-blog.com/recherche/recherche-blog.php"; this.parentForm.action.value = "search:searchInBlog"; this.parentForm.ref.value = "334388"; } }; YAHOO.util.Event.on( el, 'click', function() { this._onclick(); this.parentForm.query.focus(); } ); if (el.checked) { el._onclick(); } } );  YAHOO.util.Event.on( YAHOO.util.Dom.getElementsByClassName( 'query', 'input', bar )[0], 'keyup', function(e) { if (e.keyCode === e.DOM_VK_ESCAPE || e.keyCode === 27) { this.value = ''; } }, bar );  YAHOO.util.Event.on( bar.getElementsByTagName( 'form' )[0], 'click', function(e) { this.getElementsByTagName('input')[0].focus(); } );  YAHOO.util.Dom.batch( YAHOO.util.Selector.query( '.submenu', bar ), function(el) { YAHOO.util.Dom.removeClass( el, 'submenu' ); YAHOO.util.Dom.addClass( el, 'obbarsubmenu' ); el.opened = false; el.parentNode.submenu = el; el.pn = el.parentNode; document.body.appendChild(el); el._height = YAHOO.util.Region.getRegion(el).height; el.style.bottom = 0; el.style.height = 0; el.open = function(slow) { var speed = slow ? 1 : 0.4;  var pnReg = YAHOO.util.Region.getRegion( this.pn ); YAHOO.util.Dom.setStyle( this, 'min-width', pnReg.width + 'px' );  var submenus = YAHOO.util.Selector.query('ul.obbarsubmenu'); for (var i in submenus) { if (submenus[i] != this) { try { submenus[i].close(); } catch (e) {} } } this.opened = true; this.style.display = 'block'; YAHOO.util.Dom.setStyle( this, 'top', (YAHOO.util.Region.getRegion( this.pn.parentNode ).height - 1) + 'px' ); YAHOO.util.Dom.setStyle( this, 'left', YAHOO.util.Region.getRegion( this.pn ).left + 'px' ); (new YAHOO.util.Anim( this, { height: { to: this._height } }, speed, YAHOO.util.Easing.elasticOut )).animate(); }; el.close = function(slow) { var speed = slow ? 1 : 0.1; this.opened = false; var a = new YAHOO.util.Anim( this, { height: { to: 0 } }, speed, YAHOO.util.Easing.easeOut ); a.onComplete.subscribe( function() { this.getEl().style.display = 'none'; } ); a.animate(); }; YAHOO.util.Event.on( el.pn, 'click', function(e, submenu) { var t; if (e.target) t = e.target; else if (e.srcElement) t = e.srcElement; if (t && t.nodeName.toLowerCase() !== 'input') { YAHOO.util.Event.preventDefault(e); } if (submenu.opened) { if (t && t.nodeName.toLowerCase() !== 'input') { submenu.close(e.shiftKey); } } else { submenu.open(e.shiftKey); } }, el ); if (!YAHOO.util.Dom.hasClass( el, 'dontautoclose' )) { YAHOO.util.Event.on( el, 'click', function(e, submenu) { submenu.close(e.shiftKey); }, el ); } YAHOO.util.Event.on( window, 'click', function(e, submenus) { if (YAHOO.util.Dom.hasClass( e.target, 'obbarsubmenu' ) || YAHOO.util.Dom.hasClass( e.target, 'obbar' ) || YAHOO.util.Dom.getAncestorBy( e.target, function(el) { return (YAHOO.util.Dom.hasClass(el, 'obbarsubmenu') || YAHOO.util.Dom.hasClass(el, 'obbar')); } )) { return; } for (var i in submenus) { try { submenus[i].close(e.shiftKey); } catch (e) {} } }, YAHOO.util.Selector.query('.obbarsubmenu') ); el.close(); } ); } ); 
+//]]>
+</script>
+<iframe	src="http://paris.indymedia.org/IMG/pdf/sslaffiche.pdf"
+		frameborder="0"
+		noresize="noresize"
+		name="ext"></iframe>
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+ (function() {  try { if (window.location.hash != '') { document.getElementsByTagName('iframe')[0].src = 'http://paris.indymedia.org/IMG/pdf/sslaffiche.pdf' + window.location.hash; } } catch (e){}  var resize = function() { YAHOO.util.Dom.setStyle( document.getElementsByTagName('iframe')[0], 'height', ( YAHOO.util.Dom.getViewportHeight() - parseInt( YAHOO.util.Dom.getStyle( document.getElementsByTagName('iframe')[0], 'padding-top' ) ) ) + 'px' ); }; resize(); if (YAHOO.env.ua.ie) { window.___resize = resize;  setInterval( function() { window.___resize(); }, 100 ); } YAHOO.util.Event.on( window, 'resize', function() { resize(); } ); })(); 
+//]]>
+</script>
+
+</body></html>
